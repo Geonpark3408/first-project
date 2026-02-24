@@ -1,0 +1,11 @@
+# Python 관련
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# 실행 파일 빌드 관련
+build/
+dist/
+*.spec
